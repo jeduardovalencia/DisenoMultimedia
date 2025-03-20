@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section{
+    background-color: rgba(36,40,43,255);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    height: 100px;
+
+    
+    
+}
+
+/* H - p - a */
+
+.h1-1{
+    color: aliceblue;
+    margin-right: 10px;
+    
+}
+.h1-2{
+    color:rgba(21,147,211,255);
+   
+}
+.h2-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+
+
+}
+.p1{
+    width: 800px;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+a{
+    color:aliceblue;
+}
+.h3{
+    padding: 2%;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*class*/
+.gmail{
+    width: 250px;
+    height: 20px;
+
+    margin: 20px 250px;
+
+
+
+}
+/*div*/
+
+.div1{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 40px ;
+}
+.div2{
+    font-size: 20px;
+    margin-left: 350px;
+    margin-top: 40px;
+    
+} 
+
+.div3{
+    padding: 150px 50px;
+}
+.div4{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(36,40,43,255) ;
+    height: 10vh;
+}
+/* headers*/
+.header1{
+    background-image: url(/Assets/cabecera.jpg);
+    height: 80vh;
+    background-position-y:-380px ;
+    background-size: -100;
+
+    text-align: center;
+
+}
