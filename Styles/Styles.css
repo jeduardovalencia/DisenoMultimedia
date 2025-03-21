@@ -43,20 +43,47 @@ a{
     color:aliceblue;
 }
 .h3{
-    padding: 2%;
+    padding: 1%;
     color: aliceblue;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
 }
+.h4-1{
+    padding: 6% 11% ;
+}
+.h4-2{
+    padding: 6% 11% ;
+}
+.h4-3{
+    padding: 6% ;
+}
+.p2{
+    width: 300px;
 
+    
+}
+.p3{
+    width: 300px;
+}
+.p4{
+    width: 300px;
+}
 /*class*/
 .gmail{
-    width: 250px;
-    height: 20px;
+    width: 230px;
+    height: 35px;
 
-    margin: 20px 250px;
-
-
-
+    
+}
+.button{
+    height: 35px;
+    width: 100px;
+    background-color: rgba(229,77,39,255);
+    border: none;
+    color: aliceblue;
+}
+.juntar{
+   padding: 1% 5%;
 }
 /*div*/
 
@@ -81,13 +108,54 @@ a{
     background-color: rgba(36,40,43,255) ;
     height: 10vh;
 }
+.div5{
+
+    text-align: center;
+
+
+}
+.div6{
+    text-align: center;
+}
+.div7{
+    text-align: center;
+}
+/*img*/
+
+.html{
+
+   width: 100px;
+
+}
+.css{
+
+    width: 100px;
+}
+.brush{
+
+    width: 100px;
+}
+
 /* headers*/
 .header1{
     background-image: url(/Assets/cabecera.jpg);
     height: 80vh;
     background-position-y:-380px ;
     background-size: -100;
-
     text-align: center;
+}
+.header2{
 
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 10%;
+    
+}
+footer{
+    background-color:rgba(21,147,211,255) ;
+    height: 70px;
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
 }
