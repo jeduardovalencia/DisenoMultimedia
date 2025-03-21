@@ -85,6 +85,10 @@ a{
 .juntar{
    padding: 1% 5%;
 }
+.linea{
+    background-color:rgba(21,147,211,255) ;
+    height: 3px;
+}
 /*div*/
 
 .div1{
@@ -159,3 +163,4 @@ footer{
     justify-content: center;
     color: aliceblue;
 }
+
