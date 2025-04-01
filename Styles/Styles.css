@@ -162,17 +162,19 @@ a{
     text-align: center;
 }
 .div8{
-    width: 800px;
+    width: 1300px;
     padding: 2% 5% ;
+    
     
 }
 .div9{
     width: 390px;
     height: 200px;
     background-color: rgba(36,40,43,255);
-    padding: 1% ;
+    padding: 1%  ;
     color: antiquewhite;
     margin-top:20px;
+    margin-left: 00px;
     
 
 }
@@ -212,7 +214,39 @@ a{
     margin: 1%;
 }
 .div17{
+    display: flex;
+    flex-direction: column;
+    width: 1150px;
+    padding:  2% 3% 3% 7%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    height: 450px;
     
+}
+div div input{
+    height: 40px ;
+    padding: 2%;
+    
+}
+div div label input{
+    padding: 2%;
+}
+.imggoogle{
+    width: 400px;
+    margin-top: 100px;
+    margin-left: -20px ;
+    height: 270px;
+}
+.fotter1{
+    margin-top: 100px;
+}
+.buton1{
+    margin-top: 17px;
+    background-color: rgba(229,77,39,255);
+    color: aliceblue;
+    height: 40px;
+    margin-bottom: 10px;
+    border: none;
 }
 
 /*img*/
@@ -230,8 +264,8 @@ a{
 
     width: 100px;
 }
-.img1{
-    width: 300px;
+.img5{
+    width: 1000px;
 }
 
 
