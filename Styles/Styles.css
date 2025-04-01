@@ -14,10 +14,10 @@
 }
 body section div a {
     text-decoration: none;
-    margin-right: 6%;
+    
     margin-right: 20px;
     font-size: 16px;
-
+    margin-left: 60px;
 }
 
 /* H - p - a */
